@@ -34,6 +34,7 @@ Communication between PC and MCU is simply a USB serial connection. Data frame b
 Firmware was written in C and uses RTOS. With current implementation it is un-necessary to have a RTOS but I find it makes easier for future expansion. 
 
 [**LVGL](https://lvgl.io/) GUI library was used to handle graphic related functions.**
+[**STM32 Firmware link](https://github.com/saikhamhein/SysmonStm32)
 
 ### Software
 
@@ -47,7 +48,7 @@ When the PC software was started, user is required to select correct COM port th
 
 PC software interface
 
-PC software link: 
+
 
 ### Hardware
 
